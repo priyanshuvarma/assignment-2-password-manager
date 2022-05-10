@@ -1,0 +1,14 @@
+.no-password-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-passwords {
+  width: 250px;
+}
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 32px;
+}
